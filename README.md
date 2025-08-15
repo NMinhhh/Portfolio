@@ -23,13 +23,13 @@
 - **Công nghệ & SDK:** Unity 2022, Firebase, Applovin, Appmetrica, Adjust, Appsflyer
 - **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save, tối ưu hiệu năng và tích hợp SDK
 - **Bản chơi thử:** [Tải tại đây](https://drive.google.com/file/d/1pV4dYMvLD3jPe5u_jHI0iX4t74kA5xLS/view?usp=sharing)
-- **Demo:** [Tải tại đây](https://youtu.be/sbVuJMyoWCU?si=ypmU2hOz7Dmsr3po)
+- **Demo:** [Xem tại đây](https://youtu.be/sbVuJMyoWCU?si=ypmU2hOz7Dmsr3po)
 ## 5. Block Smash: Puzzle Game (Hoàn thành - Chưa xuất bản) - UpMoon Game Studio
 - **Thể loại:** Puzzle
 - **Công nghệ & SDK:** Unity 2022, Firebase, Applovin, IAP
 - **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save, tối ưu hiệu năng và tích hợp SDK  
 - **Bản chơi thử:** [Tải tại đây](https://drive.google.com/file/d/1xHKUVnPSCQCK__PdaZF4qj6tbATKKHOB/view?usp=sharing)
-- **Demo:** [Tải tại đây](https://youtu.be/Di_uaUXhH0Q?si=FakVyIxYD-Sx2swz)
+- **Demo:** [Xem tại đây](https://youtu.be/Di_uaUXhH0Q?si=FakVyIxYD-Sx2swz)
 ## 6. Move Stop Move (Hoàn thành) - UpMoon Game Studio
 - **Thể loại:** Hyper Casual
 - **Công nghệ & SDK:** Unity 2022, Firebase, Applovin, IAP
@@ -37,15 +37,15 @@
 ## Dự án các nhân:
 # 1. 3D RPG: Dungeon
 - **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save
-- **Demo:** [Tải tại đây](https://www.youtube.com/watch?v=HiJi1FfGGH4)
+- **Demo:** [Xem tại đây](https://www.youtube.com/watch?v=HiJi1FfGGH4)
 - **Code:** [Xem tại đây](https://github.com/NMinhhh/RPG-Project.git)
 # 2. 2D Survival
 - **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save
 - **Bản chơi thử:** [Tải tại đây](https://nhatminhhhhh.itch.io/game2d)
-- **Demo:** [Tải tại đây](https://www.youtube.com/watch?v=_byMjpddU24)
+- **Demo:** [Xem tại đây](https://www.youtube.com/watch?v=_byMjpddU24)
 - **Code:** [Xem tại đây](https://github.com/NMinhhh/Knight-2D.git)
 # 3. 2D Adventure
 - **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save
 - **Bản chơi thử:** [Tải tại đây](https://drive.google.com/file/d/13p7xAds3Sv7MRYm8Q6BjritD74568y7_/view?usp=sharing)
-- **Demo:** [Tải tại đây](https://youtu.be/zFzDOCZjxzU)
+- **Demo:** [Xem tại đây](https://youtu.be/zFzDOCZjxzU)
 - **Code:** [Xem tại đây](https://github.com/NMinhhh/First-Project.git)
