@@ -6,7 +6,7 @@
 - **Thành tích:** 500K+ lượt tải, Rating 4.9★ trên Google Play
 - **Google Play:** [Tải tại đây](https://play.google.com/store/apps/details?id=com.vgf.negaxy.yarnzle.stitch&hl=en)
 - **App Store:** [Tải tại đây](https://apps.apple.com/vn/app/yarnzle-stitch/id6745729468)
-## 2. Unpin Blast Block Sort 3D (Google Play | App Store)
+## 2. Unpin Blast Block Sort 3D (Google Play | App Store) - UpMoon Game Studio
 - **Thể loại:**  Puzzle
 - **Công nghệ & SDK:** Unity 2022, Firebase, Applovin, Appsflyer, IAP, Ajust
 - **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save và tool hỗ trợ xếp map, tối ưu hiệu năng và tích hợp SDK
