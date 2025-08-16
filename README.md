@@ -35,16 +35,16 @@
 - **Công nghệ & SDK:** Unity 2022, Firebase, Applovin, IAP
 - **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save, tối ưu hiệu năng và tích hợp SDK  
 ## Dự án các nhân:
-# 1. 3D RPG: Dungeon
+## 1. 3D RPG: Dungeon
 - **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save
 - **Demo:** [Xem tại đây](https://www.youtube.com/watch?v=HiJi1FfGGH4)
 - **Code:** [Xem tại đây](https://github.com/NMinhhh/RPG-Project.git)
-# 2. 2D Survival
+## 2. 2D Survival
 - **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save
 - **Bản chơi thử:** [Tải tại đây](https://nhatminhhhhh.itch.io/game2d)
 - **Demo:** [Xem tại đây](https://www.youtube.com/watch?v=_byMjpddU24)
 - **Code:** [Xem tại đây](https://github.com/NMinhhh/Knight-2D.git)
-# 3. 2D Adventure
+## 3. 2D Adventure
 - **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save
 - **Bản chơi thử:** [Tải tại đây](https://drive.google.com/file/d/13p7xAds3Sv7MRYm8Q6BjritD74568y7_/view?usp=sharing)
 - **Demo:** [Xem tại đây](https://youtu.be/zFzDOCZjxzU)
