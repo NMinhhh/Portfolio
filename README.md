@@ -22,7 +22,7 @@
 - **Thể loại:** Puzzle
 - **Công nghệ & SDK:** Unity 2022, Firebase, Applovin, Appmetrica, Adjust, Appsflyer
 - **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save, tối ưu hiệu năng và tích hợp SDK
-- **Bản chơi thử:** [Tải tại đây](https://drive.google.com/file/d/1pV4dYMvLD3jPe5u_jHI0iX4t74kA5xLS/view?usp=sharing)
+- **Bản chơi thử:** [Tải tại đây](https://drive.google.com/file/d/1-pzuLU9GXb96Y2T8iIfxYg51Vxhvcco3/view?usp=sharing)
 - **Demo:** [Xem tại đây](https://youtu.be/sbVuJMyoWCU?si=ypmU2hOz7Dmsr3po)
 ## 5. Block Smash: Puzzle Game (Hoàn thành - Chưa xuất bản) - UpMoon Game Studio
 - **Thể loại:** Puzzle
