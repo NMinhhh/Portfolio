@@ -33,7 +33,14 @@
 ## 6. Move Stop Move (Hoàn thành) - UpMoon Game Studio
 - **Thể loại:** Hyper Casual
 - **Công nghệ & SDK:** Unity 2022, Firebase, Applovin, IAP
-- **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save, tối ưu hiệu năng và tích hợp SDK  
+- **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save, tối ưu hiệu năng và tích hợp SDK
+## Dự án Làm thêm:
+## 1. Rolling Ball (Hoàn thành) - Đối tác bên ngoài
+- **Thể loại:** Hyper Casual
+- **Công nghệ:** Unity 6
+- **Vai trò:** Phát triển gameplay & UI và tool hỗ trợ xếp map 
+- **Bản chơi thử:** [Tải tại đây](https://drive.google.com/file/d/1cBktr0fFrhPfZ0Rf7bKd3lc1XVdTm20V/view?usp=sharing)
+- **Demo:** [Xem tại đây]()
 ## Dự án các nhân:
 ## 1. 3D RPG: Dungeon
 - **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save
