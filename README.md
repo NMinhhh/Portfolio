@@ -40,7 +40,6 @@
 - **Công nghệ:** Unity 6
 - **Vai trò:** Phát triển gameplay & UI và tool hỗ trợ xếp map 
 - **Bản chơi thử:** [Tải tại đây](https://drive.google.com/file/d/1cBktr0fFrhPfZ0Rf7bKd3lc1XVdTm20V/view?usp=sharing)
-- **Demo:** [Xem tại đây]()
 ## Dự án các nhân:
 ## 1. 3D RPG: Dungeon
 - **Vai trò:** Xây dựng toàn bộ gameplay & UI, phát triển hệ thống save
